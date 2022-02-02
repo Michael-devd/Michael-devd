@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michael-devd
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python.
 
