@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Michael
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in coding.
